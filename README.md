@@ -1,4 +1,4 @@
-# Android-Wii-Reciver
+# Android-Wii-Receiver
 
 AndroidスマホをWiiリモコンのレシーバー代わりにすることができます。
 
