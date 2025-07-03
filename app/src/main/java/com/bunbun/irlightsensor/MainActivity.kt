@@ -43,7 +43,7 @@ class MainActivity : ComponentActivity() {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Column {
                         Greeting(
-                            name = "Xiaomi Android",
+                            name = "注: IRセンサーが無いスマホでは利用できません",
                             modifier = Modifier.padding(innerPadding)
                         )
                         SwitchIR()
